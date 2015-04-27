@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main (){
 
-int a = 1;
-int b = 2;
+int a = 5;
+int b = 6;
 int c = a+b;
 printf ("%d",c);
 return 0;
