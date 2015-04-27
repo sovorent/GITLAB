@@ -3,8 +3,8 @@ int main (){
 
 int a = 9;
 int b = 10;
-int c = a+b;
-printf ("%d",c);
+int C = a+b;
+printf ("%d",C);
 
 return 0;
 
