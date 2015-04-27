@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main (){
 
-int a = 5;
-int b = 6;
-int c = a+b;
-printf ("%d",c);
+int A = 5;
+int B = 6;
+int D = A+B;
+printf ("%d",D);
 return 0;
 
 }
